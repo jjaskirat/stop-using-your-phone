@@ -2,6 +2,13 @@
 
 This project is an **AI-powered, real-time video surveillance assistant** that detects phone usage from webcam input using a multimodal local LLM. It provides voice feedback, visual alerts via smart lighting (Home Assistant), and runs on a Gradio interface.
 
+## Video Demo:
+
+
+https://github.com/user-attachments/assets/f6624169-3915-46a6-9e4e-071c0f12045b
+
+
+
 ## 🧠 Features
 
 - 🖼️ Processes real-time webcam video frames
